@@ -9,7 +9,7 @@ Full-Stack developer with over 5 years of front and back end technologies; I’m
 * 🌍  I'm based in Bogota, Colombia
 * 🖥️  See my portfolio at [leonardoloda.github.io](http://leonardoloda.github.io/)
 * ✉️  You can contact me at [leonardoloda2@gmail.com](mailto:leonardoloda2@gmail.com)
-* 🚀  I'm currently working on [Paypal](http://www.paypal.com)
+* 🚀  I'm currently unemployed.
 
 ### Skills
 
@@ -38,7 +38,3 @@ Full-Stack developer with over 5 years of front and back end technologies; I’m
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/leonardoloda" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/leonardo-lopez-daza/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/leo_lopez_daza" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<a href="https://github.com/leonardoloda" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoloda&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
